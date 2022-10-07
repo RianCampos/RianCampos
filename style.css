@@ -4,6 +4,7 @@ background-color:black ;
 }
 
 Estilizar o título principal do seu site
+ #comic
  h1{
 color:rgb(99, 1, 163) ;
 font-family:Arial, Helvetica, sans-serif ;
@@ -11,6 +12,7 @@ background:rgb(77, 209, 1) ;
 }
 
 Estilizar os parágrafos
+#sendo
 p{
 color:white ;
 font-family:Arial, Helvetica, sans-serif ;
