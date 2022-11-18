@@ -1,30 +1,26 @@
 Estilizar a cor de fundo do seu site como o css
 body{
-background-color:rgb(29, 30, 61);
+background-color:black ;
 }
 
 Estilizar o título principal do seu site
-
- h1 { color: aqua;
-    text-align: center;
-
-    
-color:rgb(99, 1, 163);
-font-family:Arial, Helvetica, sans-serif;
-background:rgb(77, 209, 1);
+ h1{
+color:white ;
+font-family:Arial, Helvetica, sans-serif ;
+background: ;
 }
 
 Estilizar os parágrafos
-
 p{
-color:white
-font-family:Arial, Helvetica, sans-serif;
-font: size 25px;
+color: ;
+font-family: ;
+font-size: ;
 background: ;
-
-
-
 }
+
+
+
+
 
 #cmb {
     width: 100%;
